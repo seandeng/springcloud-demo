@@ -1,0 +1,3 @@
+com/sr/springcloud/consumer/controller/ConsumerController.class
+com/sr/springcloud/consumer/openfeign/ProviderApi.class
+com/sr/springcloud/consumer/ConsumerServer.class
