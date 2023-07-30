@@ -1,4 +1,4 @@
-package com.sr.springboot.provider.controller;
+package com.sr.springcloud.provider.controller;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
